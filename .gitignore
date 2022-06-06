@@ -1,0 +1,15 @@
+.idea
+*.iws
+*.iml
+*.ipr
+*.idea
+*.swp
+target/
+out/
+.DS_Store
+
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+.vscode/
+bin/
